@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DownloadFile:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DownloadFile_jar</output-path>
+    <root id="archive" name="DownloadFile.jar">
+      <element id="module-output" name="DownloadFile" />
+    </root>
+  </artifact>
+</component>
